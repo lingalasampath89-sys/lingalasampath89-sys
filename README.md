@@ -13,3 +13,13 @@ I'm a frontend developer from Guntur, India, with a B.Tech background in AI & ML
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sampath-lingala-12008b25a) [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge)](https://sams-portfolio-gilt.vercel.app)
+## 📂 My Projects
+
+- [sams-portfolio](https://sams-portfolio-gilt.vercel.app) - My personal portfolio website
+- [Doctors_appointment_bookings-_system](https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system) - Doctor appointment booking UI system
+- [Home-thalli-official](https://github.com/lingalasampath89-sys/Home-thalli-official) - Official web project
+- [kj_systems_demo](https://github.com/lingalasampath89-sys/kj_systems_demo) - HTML/JS demo project
+- [our_aisi-org](https://github.com/lingalasampath89-sys/our_aisi-org) - Organization JavaScript project
+- [final_project](https://github.com/lingalasampath89-sys/final_project) - TypeScript schema inference project
+
+[![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lingalasampath89-sys&show_icons=true&theme=radical)](https://github.com/lingalasampath89-sys/lingalasampath89-sys)
