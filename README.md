@@ -20,7 +20,7 @@ I'm a frontend developer from Guntur, India, with a B.Tech background in AI & ML
   <tr>
     <td width="180">
       <a href="https://github.com/lingalasampath89-sys/sams-portfolio">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/main/banner1.jpg" width="160"/>
+        <img src="https://github.com/lingalasampath89-sys/sams-portfolio/blob/0bc18ac793e435e364d527acf53ad2b129faa05d/banner1.jpg/>
       </a>
     </td>
     <td>
