@@ -13,13 +13,73 @@ I'm a frontend developer from Guntur, India, with a B.Tech background in AI & ML
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sampath-lingala-12008b25a) [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge)](https://sams-portfolio-gilt.vercel.app)
-## 📂 My Projects
+## 🚀 Projects
 
-- [sams-portfolio](https://sams-portfolio-gilt.vercel.app) - My personal portfolio website
-- [Doctors_appointment_bookings-_system](https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system) - Doctor appointment booking UI system
-- [Home-thalli-official](https://github.com/lingalasampath89-sys/Home-thalli-official) - Official web project
-- [kj_systems_demo](https://github.com/lingalasampath89-sys/kj_systems_demo) - HTML/JS demo project
-- [our_aisi-org](https://github.com/lingalasampath89-sys/our_aisi-org) - Organization JavaScript project
-- [final_project](https://github.com/lingalasampath89-sys/final_project) - TypeScript schema inference project
-
-[![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lingalasampath89-sys&show_icons=true&theme=radical)](https://github.com/lingalasampath89-sys/lingalasampath89-sys)
+<table>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/sams-portfolio">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/main/banner.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/sams-portfolio"><b>sams-portfolio</b></a><br/>
+      My personal portfolio website
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Doctors_appointment_bookings-_system/main/ccimage.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system"><b>Doctors_appointment_bookings-_system</b></a><br/>
+      Doctor appointment booking UI system
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/Home-thalli-official">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Home-thalli-official/main/banner.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/Home-thalli-official"><b>Home-thalli-official</b></a><br/>
+      Official web project
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/kj_systems_demo">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/kj_systems_demo/main/banner.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/kj_systems_demo"><b>kj_systems_demo</b></a><br/>
+      HTML/JS demo project
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/our_aisi-org">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/our_aisi-org/main/banner.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/our_aisi-org"><b>our_aisi-org</b></a><br/>
+      Organization JavaScript project
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+      <a href="https://github.com/lingalasampath89-sys/final_project">
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/final_project/main/banner.png" width="160"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lingalasampath89-sys/final_project"><b>final_project</b></a><br/>
+      TypeScript schema inference project
+    </td>
+  </tr>
+</table>
