@@ -20,92 +20,80 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
 
 ## 🚀 Projects
 
-<table width="100%" style="width:100%; table-layout:fixed;">
+<table width="100%">
   <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/sams-portfolio">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/0bc18ac793e435e364d527acf53ad2b129faa05d/banner1.jpg" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/0bc18ac793e435e364d527acf53ad2b129faa05d/banner1.jpg" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/sams-portfolio"><b>sams-portfolio</b></a><br/>
-      My personal portfolio website<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      My personal portfolio website<br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-  </tr>
-  <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Doctors_appointment_bookings-_system/main/ccimage.png" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Doctors_appointment_bookings-_system/main/ccimage.png" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system"><b>Doctors_appointment_bookings-_system</b></a><br/>
-      Doctor appointment booking UI system<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      Doctor appointment booking UI system<br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/Home-thalli-official">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Home-thalli-official/main/banner.jpg" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Home-thalli-official/main/banner.jpg" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/Home-thalli-official"><b>Home-thalli-official</b></a><br/>
-      Official web project<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      Official web project<br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/kj_systems_demo">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/kj_systems_demo/main/banner3.jpg" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/kj_systems_demo/main/banner3.jpg" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/kj_systems_demo"><b>kj_systems_demo</b></a><br/>
-      HTML/JS demo project<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      HTML/JS demo project<br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/our_aisi-org">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/our_aisi-org/main/ais.jpg" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/our_aisi-org/main/ais.jpg" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/our_aisi-org"><b>our_aisi-org (AISI)</b></a><br/>
-      Organization JavaScript project<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      Organization JavaScript project<br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-  </tr>
-  <tr>
-    <td width="260">
+    <td width="50%" valign="top">
       <a href="https://github.com/lingalasampath89-sys/final_project">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/final_project/main/finalproject.jpg" width="240"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/final_project/main/finalproject.jpg" width="100%"/>
       </a>
-    </td>
-    <td>
+      <br/>
       <a href="https://github.com/lingalasampath89-sys/final_project"><b>final_project</b></a><br/>
-      TypeScript schema inference project<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      TypeScript schema inference project<br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
 </table>
