@@ -16,15 +16,15 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
 
 ## Other Tools & Tech
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 🚀 Projects
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/sams-portfolio">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/0bc18ac793e435e364d527acf53ad2b129faa05d/banner1.jpg" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/sams-portfolio/0bc18ac793e435e364d527acf53ad2b129faa05d/banner1.jpg" width="240"/>
       </a>
     </td>
     <td>
@@ -36,9 +36,9 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
     </td>
   </tr>
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/Doctors_appointment_bookings-_system">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Doctors_appointment_bookings-_system/main/ccimage.png" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Doctors_appointment_bookings-_system/main/ccimage.png" width="240"/>
       </a>
     </td>
     <td>
@@ -51,9 +51,9 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
     </td>
   </tr>
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/Home-thalli-official">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Home-thalli-official/main/banner.jpg" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/Home-thalli-official/main/banner.jpg" width="240"/>
       </a>
     </td>
     <td>
@@ -65,9 +65,9 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
     </td>
   </tr>
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/kj_systems_demo">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/kj_systems_demo/main/banner3.jpg" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/kj_systems_demo/main/banner3.jpg" width="240"/>
       </a>
     </td>
     <td>
@@ -80,9 +80,9 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
     </td>
   </tr>
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/our_aisi-org">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/our_aisi-org/main/ais.jpg" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/our_aisi-org/main/ais.jpg" width="240"/>
       </a>
     </td>
     <td>
@@ -94,16 +94,16 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
     </td>
   </tr>
   <tr>
-    <td width="180">
+    <td width="260">
       <a href="https://github.com/lingalasampath89-sys/final_project">
-        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/final_project/main/finalproject.jpg" width="160"/>
+        <img src="https://raw.githubusercontent.com/lingalasampath89-sys/final_project/main/finalproject.jpg" width="240"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/lingalasampath89-sys/final_project"><b>final_project</b></a><br/>
       TypeScript schema inference project<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
@@ -116,4 +116,4 @@ Hi Guys, this is Sampath Kumar — passionate about developing websites and UI/U
 
 ### 📊 Sampath's GitHub Stats
 
-![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lingalasampath89-sys&show_icons=true&theme=radical)
+![Sampath's GitHub Stats](https://raw.githubusercontent.com/lingalasampath89-sys/lingalasampath89-sys/d908ce94d343dffe5d00cc094b3953256d549262/gitstats.jpg)
